@@ -1,1 +1,3 @@
 # AIContentGeneratorApp
+
+The app
